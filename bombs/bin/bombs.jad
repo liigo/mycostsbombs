@@ -1,0 +1,11 @@
+MIDlet-1: bombs, /bombs.png, com.liigo.j2me.bombs.BombsMidlet
+MIDlet-Jar-Size: 22899
+MIDlet-Jar-URL: bombs.jar
+MIDlet-Name: bombs
+MIDlet-Vendor: liigo.com
+MIDlet-Version: 1.1
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+blog: http://blog.csdn.net/liigo/
+email: liigo@sina.com
+website: http://www.liigo.com

@@ -1,0 +1,10 @@
+MIDlet-1: MyCosts, /MyCosts.png, com.liigo.j2me.mycosts.MyCostsMidlet
+MIDlet-Jar-Size: 24528
+MIDlet-Jar-URL: MyCosts.jar
+MIDlet-Name: MyCosts
+MIDlet-Vendor: liigo.com
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
+blog: http://blog.csdn.net/liigo/
+website: http://www.liigo.com
